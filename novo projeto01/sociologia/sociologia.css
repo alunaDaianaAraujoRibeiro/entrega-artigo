@@ -1,0 +1,46 @@
+body{
+   border: 3px solid yellow;
+    font-family: Ariel,sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+main{
+   margin: 0;
+   border: 3px solid black;
+}
+ h1{
+   font-size: 70px;
+   text-align: center;
+    color: rgb(57, 57, 231)9
+ }
+ p{
+   margin: 50px;
+    line-height: 1.6;
+    text-align: center;
+    color: rgb(18, 17, 16);
+ }
+.ok1{
+   margin: 0;
+   text-align: center;
+}
+.ok2{
+   margin: 0;
+   text-align: center;
+}
+img{
+   margin: 0;
+   max-width: 500px;
+   max-height: 500px;
+   text-align: center;
+}
+.texto1{
+   border: 3px solid black;
+   margin: 5px;
+}
+.text2{
+   border: 3px solid black;
+   margin: 5px;
+}
+.conexao-tecnologia-sustentabilidade{
+   margin: 5px;
+}
